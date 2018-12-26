@@ -1,0 +1,6 @@
+com/silibre/test_jpa_maven/entity/Evaluation.class
+com/silibre/test_jpa_maven/entity/Civilite.class
+com/silibre/test_jpa_maven/main/TestJpa.class
+com/silibre/test_jpa_maven/main/JpaUtil.class
+com/silibre/test_jpa_maven/entity/ClasseTutore.class
+com/silibre/test_jpa_maven/entity/Professeur.class
